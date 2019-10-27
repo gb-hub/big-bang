@@ -1,2 +1,2 @@
 # big-bang
-This is where it all started!
+This is when it all started!
